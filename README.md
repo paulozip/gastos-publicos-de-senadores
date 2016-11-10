@@ -2,7 +2,7 @@
 Um estudo sobre os gastos públicos de senadores brasileiros realizados dentro de um período abrangido pelo dataset.
 Através do códigos disponibilizado aqui, queremos responder a perguntas, como:
 
-<li>Qual senador que mais gastou no período?</li>
+<li>Qual senador quem mais gastou no período?</li>
 <li>Periodos como recessos e grandes eventos, como votação de Impeachment, influenciaram nos gastos públicos?</li>
 <li>Quais itens mais caros/comprados neste período?</li>
 
